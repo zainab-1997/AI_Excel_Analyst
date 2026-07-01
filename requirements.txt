@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+python-dotenv
+langchain-groq
+reportlab
+arabic-reshaper
+python-bidi
+python-multipart
